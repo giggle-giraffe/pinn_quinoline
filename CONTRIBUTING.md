@@ -1,6 +1,6 @@
 # Contributing to PINN Quinoline OS Development
 
-Thank you for your interest in contributing to this Physics-Informed Neural Network (PINN) project for quinoline synthesis optimization! 
+Thank you for your interest in contributing to this Physics-Informed Neural Network (PINN) project for modeling and predicting reaction kinetics of quinoline hydrodenitrogenation! 
 
 ## Getting Started
 
