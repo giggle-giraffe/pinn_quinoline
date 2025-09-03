@@ -23,7 +23,7 @@ An implementation of Physics-Informed Neural Networks (PINNs) for modeling and p
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/pinn_quinoline_os_dev.git
+   git clone https://github.com/zcbipt/pinn_quinoline.git
    cd pinn_quinoline_os_dev
    ```
 
